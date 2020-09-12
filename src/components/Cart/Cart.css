@@ -1,0 +1,28 @@
+.order-cart h3{
+    font-size: 25px;
+    line-height: 10px;
+}
+
+.order-cart h2{
+    line-height: 3px;
+    color: #FF453F;
+}
+.order-cart h5{
+    font-size: 20px;
+    line-height: 0px;
+}
+button{
+    width:130px;
+    color: #fff;
+    cursor: pointer;
+}
+.order-cart p{
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 10px;
+}
+.order-cart h4{
+    font-size: 25px;
+    line-height: 5px;
+    color: #FF9800;
+}

@@ -1,0 +1,25 @@
+.shop-container{
+    display: flex;
+    margin-top: 10%;
+}
+.product-container{
+    width: 70%;
+    margin-left: 100px;
+    border-right: 1px solid lightgray;
+}
+.cart-container{
+    margin: 0 auto;
+    position: fixed;
+    /* margin-right: 5px; */
+    /* top: 0px; */
+    overflow: hidden;
+    margin-left: 85%;
+    /* position: absolute; */
+}
+button{
+    height: 30px;
+    width: 70px;
+    background-color: #FF453F;
+    border-radius: 10px;
+    border: 2px solid #FFAC1F;
+}
